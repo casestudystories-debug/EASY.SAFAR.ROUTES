@@ -1,0 +1,29 @@
+body {
+  font-family: 'Poppins';
+  background: #111;
+  color: white;
+  text-align: center;
+}
+
+.header h1 {
+  color: #00ffcc;
+}
+
+.card {
+  background: #222;
+  padding: 20px;
+  margin: auto;
+  width: 300px;
+  border-radius: 15px;
+}
+
+select, button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  background: #00ffcc;
+  border: none;
+}
